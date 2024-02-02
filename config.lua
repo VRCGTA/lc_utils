@@ -8,11 +8,11 @@ Config.ESX_settings = {							-- (ESX Only) ESX settings
 	['esx_version'] = 'weight'					-- [weight|limit] Configure here if your inventory uses weight or limit
 }
 
-Config.locale = "en"							-- Set the file language [en/br/de/es/no/fr/zh-cn]
+Config.locale = "ja"							-- Set the file language [en/br/de/es/no/fr/zh-cn]
 
 Config.format = {
 	['currency'] = 'USD',						-- This is the currency format, so that your currency symbol appears correctly [Examples: BRL, USD, EUR] (Currency codes: https://taxsummaries.pwc.com/glossary/currency-codes)
-	['location'] = 'en-US'						-- This is the location of your country, to format the decimal places according to your standard [Examples: pt-BR, en-US] (Language codes: http://www.lingoes.net/en/translator/langcode.htm)
+	['location'] = 'ja-JP'						-- This is the location of your country, to format the decimal places according to your standard [Examples: pt-BR, en-US] (Language codes: http://www.lingoes.net/en/translator/langcode.htm)
 }
 
 -- Here, you can easily switch between the available script compatibilities.
